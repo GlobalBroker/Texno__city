@@ -1,0 +1,43 @@
+body{
+    background: #000;
+}
+h1{
+    color: aliceblue;
+    font-size: 65px;
+    margin-bottom: 50px;
+}
+.fa{
+    font-size: 150px;
+    margin-bottom: 30px;
+}
+
+
+.main{
+    text-align: center;
+}
+.soc-bottons-inst .fa{
+    color: rgb(255, 39, 140);
+    transition: color 0.8s;
+}
+.soc-bottons-inst .fa:hover{
+    color: rgb(38, 255, 0);
+}
+.soc-bottons-tg .fa:hover{
+    color: rgb(9, 255, 0);
+}
+.soc-bottons-call .fa:hover{
+    color: rgb(94, 255, 0);
+}
+.soc-bottons-tg .fa{
+    color: rgb(125, 207, 255);
+    transition: color 0.8s;
+}
+.soc-bottons-call .fa{
+    color: rgb(0, 179, 0);
+    transition: color 0.8s;
+}
+p{
+    color: honeydew;
+    
+}
+ 
